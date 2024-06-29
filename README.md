@@ -36,8 +36,8 @@
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
-<div alin="center">
-  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />/&nbsp
+<div align="center">
+  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />&nbsp
 </div>
 
 <br>
