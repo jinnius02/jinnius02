@@ -58,7 +58,7 @@
 
 <br>
 
-<h3 align="center">🍀 Contact 🍀</h3>
+<h3 align="center">📬 Contact 📬</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
