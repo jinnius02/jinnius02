@@ -1,5 +1,4 @@
-## Hi there 👋
-<div style="text-align: right;">🍀🍀🍀🍀🍀</div>
+## Hi there 👋 <span style="float: right;">🍀🍀🍀🍀🍀</span>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
