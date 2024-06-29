@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## 📚Education📚
+<img src="https://img.shields.io/badge/lg u+ ureca-a50034.svg?style=for-the-badge&logo=lg&logoColor=white) /">&nbsp
+<span>LG U+ URECA SW교육과정 프론트엔드 개발 1기 (2024.06 ~ ing)</span>
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />&nbsp
@@ -58,15 +62,7 @@
 
 <br>
 
-<h3 align="center">📚 Education 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/lg u+ ureca-a50034.svg?style=for-the-badge&logo=lg&logoColor=white) /">&nbsp
-  <span>LG U+ URECA SW교육과정 프론트엔드 개발 1기 (2024.06 ~ ing)</span>
-</div>
-
-<br>
-
-<h3 align="center">📫 Contact 📫</h3>
+<h3 align="center">🍀 Contact 🍀</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
