@@ -1,7 +1,4 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <span>## Hi there 👋</span>
-  <span>🍀🍀🍀🍀🍀</span>
-</div>
+## Hi there 👋<span>🍀🍀🍀🍀🍀</span>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
