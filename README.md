@@ -60,7 +60,8 @@
 
 <h3 align="center">📚 Education 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/lg u+ ureca-a50034.svg?style=for-the-badge&logo=lg&logoColor=white) /">&nbsp<span>LG U+ URECA 1th FrontEnd (2024.06 ~ ing)</span>
+  <img src="https://img.shields.io/badge/lg u+ ureca-a50034.svg?style=for-the-badge&logo=lg&logoColor=white) /">&nbsp
+  <span>LG U+ URECA SW교육과정 프론트엔드 개발 1기 (2024.06 ~ ing)</span>
 </div>
 
 <br>
