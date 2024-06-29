@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## 📚Education📚
-<img src="https://img.shields.io/badge/lg u+ ureca-a50034.svg?style=for-the-badge&logo=lg&logoColor=white" />&nbsp
+<img src="https://img.shields.io/badge/lg u+ ureca-a50034.svg?style=for-the-badge&logo=lg&logoColor=white">
 <span>LG U+ URECA SW교육과정 프론트엔드 개발 1기 (2024.06 ~ ing)</span>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
