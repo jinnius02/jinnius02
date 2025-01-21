@@ -72,7 +72,7 @@
 
 ## 📚Education📚
 <img src="https://img.shields.io/badge/lg u+ ureca-a50034.svg?style=for-the-badge&logo=lg&logoColor=white">
-<span>LG U+ URECA SW교육과정 프론트엔드 개발 1기 (2024.06 ~ ing)</span>
+<span>LG U+ URECA SW교육과정 프론트엔드 개발 1기 (2024.06 ~ 2024.12)</span>
 
 <!--
 **jinnius02/jinnius02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
